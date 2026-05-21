@@ -2,7 +2,7 @@
 
 An intelligent automation tool that logs into a gym scheduling website, finds target classes, books them (or joins the waitlist), and verifies all bookings — with built-in network resilience.
 
-Built with **Python + Selenium** as part of [Angela Yu's 100 Days of Code](https://www.udemy.com/course/100-days-of-code/) course.
+Built with **Python + Selenium**.
 
 ---
 
